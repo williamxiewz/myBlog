@@ -1,0 +1,2 @@
+# myBlog
+Blog Resource
